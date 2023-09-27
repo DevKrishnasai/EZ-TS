@@ -6,3 +6,4 @@
 
 ## DAY-1
 - Inheritence
+- structure and union size calculation
