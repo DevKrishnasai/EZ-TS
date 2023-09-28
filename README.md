@@ -7,3 +7,7 @@
 ## DAY-1
 - Inheritence
 - structure and union size calculation
+## DAY-2
+- Datatypes and sizes
+- some problems on matrices and strings
+  
