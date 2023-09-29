@@ -10,4 +10,7 @@
 ## DAY-2
 - Datatypes and sizes
 - some problems on matrices and strings
+## DAY-3
+- Bit manipulations
+- problems on bit manipulation
   
