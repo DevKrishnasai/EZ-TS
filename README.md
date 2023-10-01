@@ -13,4 +13,8 @@
 ## DAY-3
 - Bit manipulations
 - problems on bit manipulation
+## DAY-4
+- Python Crash Course
+- Basics, OOPC, Recursions, DSA
+- Star Patterns and approaching way  
   
