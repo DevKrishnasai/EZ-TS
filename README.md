@@ -29,3 +29,6 @@
   - Insertion sort
 - checksum
 - Magical matrix
+## Day-8
+- Merge sort
+- Quick sort
