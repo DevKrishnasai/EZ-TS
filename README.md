@@ -32,3 +32,7 @@
 ## Day-8
 - Merge sort
 - Quick sort
+## Day-9
+- Binary search
+- Count sort
+  
