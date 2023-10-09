@@ -35,4 +35,5 @@
 ## Day-9
 - Binary search
 - Count sort
-  
+# Day-10
+- Binary search applications
