@@ -37,3 +37,8 @@
 - Count sort
 # Day-10
 - Binary search applications
+# Day-11
+- Two and Three pointer problems
+- solved some leetcode problems
+# Day-12
+- Solved some leetcode problems
